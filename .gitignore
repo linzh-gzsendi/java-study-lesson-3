@@ -1,0 +1,16 @@
+*out
+*target
+*DS_Store
+*gitattributes
+*logs
+*idea
+*classpath
+*project
+*iml
+
+*artifacts*
+
+*META-INF
+
+dependency-reduced-pom.xml
+
