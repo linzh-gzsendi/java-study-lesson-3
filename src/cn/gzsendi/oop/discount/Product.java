@@ -1,5 +1,8 @@
 package cn.gzsendi.oop.discount;
 
+/**
+ * 商品类
+ */
 public class Product {
     // 商品名
     private String name;
